@@ -12,4 +12,4 @@ will require downloading JAGS to use the model.
 ##There are several scripts in this repository##
 
 1. _data_simulation.R_
-..* This script is used to generate a series of 1000 sets of flux measurements.
+..*This script is used to generate a series of 1000 sets of flux measurements.
